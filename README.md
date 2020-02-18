@@ -1,2 +1,2 @@
-# bibleplan.github.io
-https://bibleplan.github.io
+# bibleplan2020.github.io
+https://bibleplan2020.github.io
